@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ultimate-bravery/static/css/main.97a9bd32.css",
+    "main.css": "/ultimate-bravery/static/css/main.e081c370.css",
     "main.js": "/ultimate-bravery/static/js/main.84f5f5e7.js",
     "static/js/787.7a8a6821.chunk.js": "/ultimate-bravery/static/js/787.7a8a6821.chunk.js",
     "static/media/logo.svg": "/ultimate-bravery/static/media/logo.3cab26928d163f5c44a4b20c4a4c7633.svg",
     "index.html": "/ultimate-bravery/index.html",
-    "main.97a9bd32.css.map": "/ultimate-bravery/static/css/main.97a9bd32.css.map",
+    "main.e081c370.css.map": "/ultimate-bravery/static/css/main.e081c370.css.map",
     "main.84f5f5e7.js.map": "/ultimate-bravery/static/js/main.84f5f5e7.js.map",
     "787.7a8a6821.chunk.js.map": "/ultimate-bravery/static/js/787.7a8a6821.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97a9bd32.css",
+    "static/css/main.e081c370.css",
     "static/js/main.84f5f5e7.js"
   ]
 }
