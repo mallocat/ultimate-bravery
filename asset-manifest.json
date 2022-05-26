@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ultimate-bravery/static/css/main.04db7afe.css",
-    "main.js": "/ultimate-bravery/static/js/main.cafd8471.js",
+    "main.css": "/ultimate-bravery/static/css/main.47c3f298.css",
+    "main.js": "/ultimate-bravery/static/js/main.6cc82fe1.js",
     "static/js/787.7a8a6821.chunk.js": "/ultimate-bravery/static/js/787.7a8a6821.chunk.js",
     "static/media/logo.svg": "/ultimate-bravery/static/media/logo.3cab26928d163f5c44a4b20c4a4c7633.svg",
     "index.html": "/ultimate-bravery/index.html",
-    "main.04db7afe.css.map": "/ultimate-bravery/static/css/main.04db7afe.css.map",
-    "main.cafd8471.js.map": "/ultimate-bravery/static/js/main.cafd8471.js.map",
+    "main.47c3f298.css.map": "/ultimate-bravery/static/css/main.47c3f298.css.map",
+    "main.6cc82fe1.js.map": "/ultimate-bravery/static/js/main.6cc82fe1.js.map",
     "787.7a8a6821.chunk.js.map": "/ultimate-bravery/static/js/787.7a8a6821.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04db7afe.css",
-    "static/js/main.cafd8471.js"
+    "static/css/main.47c3f298.css",
+    "static/js/main.6cc82fe1.js"
   ]
 }
